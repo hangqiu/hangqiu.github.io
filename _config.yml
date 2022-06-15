@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Hang Qiu
 url:              https://hangqiu.github.io/
-baseurl:          ./
+baseurl:          /hangqiu.github.io/
 
 #author:
 #  name:           'Mark Otto'
