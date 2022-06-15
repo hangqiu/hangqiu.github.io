@@ -15,7 +15,7 @@
   year: '2022'
 - ENTRYTYPE: inproceedings
   ID: coopernaut
-  author: Jiaxun Cui, Hang Qiu, Dian Chen, Peter Stone, Yuke Zhu
+  author: Jiaxun Cui*, Hang Qiu*, Dian Chen, Peter Stone, Yuke Zhu
   booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition
   code: https://github.com/UT-Austin-RPL/Coopernaut
