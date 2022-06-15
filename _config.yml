@@ -9,10 +9,8 @@ permalink:        pretty
 
 # Setup
 title:            Hang Qiu
-#tagline:          'A Jekyll theme'
-#description:      'postdco'
-url:              http://web.stanford.edu/
-baseurl:          /~hangqiu/
+url:              http://hangqiu.github.io
+baseurl:          ./
 
 #author:
 #  name:           'Mark Otto'
