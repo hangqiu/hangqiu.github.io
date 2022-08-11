@@ -14,6 +14,8 @@ title: Service
 * ACM International Conference on Information Processing in Sensor Networks (IPSN)
 * IEEE International Conference on Sensing, Communication and Networking (SECON)
 * IEEE Vehicular Networking Conference (VNC)
+* IEEE International Conference on Parallel and Distributed Systems (ICPADS)
+
 
 #### Journal Reviewer
 * IEEE Transactions on Networking (TON)
