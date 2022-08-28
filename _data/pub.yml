@@ -8,7 +8,7 @@
   img: mlexray.png
   mediaa: embeddedcomputing.png
   mediaaurl: https://www.embeddedcomputing.com/technology/ai-machine-learning/ai-dev-tools-frameworks/ml-exray-a-cloud-to-edge-deployment-validation-framework
-  note: Outstanding Paper
+  note: Outstanding Paper Award
   series: MLSys '22
   title: 'ML-EXray: Visibility into ML Deployment on the Edge'
   url: https://arxiv.org/abs/2111.04779
