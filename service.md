@@ -6,6 +6,7 @@ title: Service
 #### Conference Reviewer
 * USENIX Symposium on Networked Systems Design and Implementation (NSDI)
 * ACM International Conference on Mobile Systems, Applications, and Services (Mobisys)
+* IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)
 * Conference on Robot Learning (CoRL)
 * IEEE International Conference on Robotics and Automation (ICRA)
 * AAAI Conference on Artificial Intelligence (AAAI)
