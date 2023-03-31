@@ -21,11 +21,12 @@ title: Service
 #### Journal Reviewer
 * IEEE Transactions on Networking (TON)
 * IEEE Journal on Selected Areas in Communications (JSAC)
+* IEEE Network Magazine
+* IEEE Robotics and Automation Letters (RA-L)
 * IEEE Transactions on Vehicular Technology (TVT)
 * IEEE Transactions on Mobile Computing (TMC)
 * IEEE Access
 * IEEE Transactions on Cloud Computing (TCC)
-* IEEE Robotics and Automation Letters (RA-L)
 
 #### SIGMOBILE YouTube Channel
 * HotMobile’17, Mobicom’16, Mobihoc’16, Sensys’16
