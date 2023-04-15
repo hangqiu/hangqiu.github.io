@@ -70,6 +70,28 @@
   url: https://arxiv.org/abs/2112.14947
   web: https://hangqiu.github.io/AutoCast/
   year: '2022'
+- ENTRYTYPE: article
+  ID: CamLoc
+  address: New York, NY, USA
+  articleno: '28'
+  author: Pradipta Ghosh, Xiaochen Liu, Hang Qiu, Marcos A. M. Vieira, Gaurav S. Sukhatme,
+    Ramesh Govindan
+  conf: TOSN
+  doi: 10.1145/3508393
+  img: CamLoc.png
+  issn: 1550-4859
+  issue_date: May 2022
+  journal: ACM Transactions on Sensor Networks
+  keywords: neural network, Localization, camera, mechanical turk, vanishing point
+  month: feb
+  number: '2'
+  numpages: '26'
+  publisher: Association for Computing Machinery
+  series: TOSN '22
+  title: 'Sensing the Sensor: Estimating Camera Properties with Minimal Information'
+  url: https://doi.org/10.1145/3508393
+  volume: '18'
+  year: '2022'
 - ENTRYTYPE: techreport
   ID: ghosh2020localizing
   author: Pradipta Ghosh, Xiaochen Liu, Hang Qiu, Marcos AM Vieira, Gaurav S Sukhatme,
