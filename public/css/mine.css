@@ -25,16 +25,20 @@
 .pubwraper{
     left: 0;
     right: 0;
+    overflow:auto;
 }
 
 .pubentry{
-    margin-top: 2rem;
-    min-height: 8rem;
+    float: left;
+    width: 58.5%;
+    margin-left: 3%;
 }
 
 .pubimg{
-    width: 35%;
+    float: left;
+    width: 38.5%;
     max-width: 12rem;
+    min-height: 8rem;
 }
 
 .pubmedia{

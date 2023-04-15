@@ -1,3 +1,16 @@
+- ENTRYTYPE: misc
+  ID: womdlidar
+  archiveprefix: arXiv
+  author: Kan Chen, Runzhou Ge, Hang Qiu, Rami Ai-Rfou, Charles R. Qi, Xuanyu Zhou,
+    Zoey Yang, Scott Ettinger, Pei Sun, Zhaoqi Leng, Mustafa Mustafa, Ivan Bogun,
+    Weiyue Wang, Mingxing Tan, Dragomir Anguelov
+  conf: arXiv
+  eprint: '2304.03834'
+  img: womdlidar.png
+  primaryclass: cs.CV
+  title: 'WOMD-LiDAR: Raw Sensor Dataset Benchmark for Motion Forecasting'
+  url: https://arxiv.org/abs/2304.03834
+  year: '2023'
 - ENTRYTYPE: inproceedings
   ID: mcal
   author: Hang Qiu, Krishna Chintalapudi, Ramesh Govindan
@@ -26,7 +39,7 @@
   year: '2022'
 - ENTRYTYPE: inproceedings
   ID: coopernaut
-  author: Jiaxun Cui*, Hang Qiu*, Dian Chen, Peter Stone, Yuke Zhu
+  author: Hang Qiu*, Jiaxun Cui*, Dian Chen, Peter Stone, Yuke Zhu
   booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition
   code: https://github.com/UT-Austin-RPL/Coopernaut
