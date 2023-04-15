@@ -25,17 +25,14 @@
 .pubwraper{
     left: 0;
     right: 0;
-
 }
 
 .pubentry{
     margin-top: 2rem;
-    margin-right: 35%;
     min-height: 8rem;
 }
 
 .pubimg{
-    float: right;
     width: 35%;
     max-width: 12rem;
 }
