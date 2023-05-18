@@ -11,6 +11,7 @@ title: Service
 * Conference on Robot Learning (CoRL)
 * IEEE International Conference on Robotics and Automation (ICRA)
 * AAAI Conference on Artificial Intelligence (AAAI)
+* International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
 * IEEE Conference on Computer Communications (Infocom)
 * ACM/IEEE Symposium on Edge Computing (SEC)
 * ACM International Conference on Information Processing in Sensor Networks (IPSN)
