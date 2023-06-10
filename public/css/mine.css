@@ -42,9 +42,10 @@
 }
 
 .pubmedia{
-    margin-top: 0;
+    margin-top: auto;
+    margin-bottom: auto;
     height: 1rem;
-    width: 4rem;
+    margin-left: 0.5em;
 }
 
 .pubmediacontainer {

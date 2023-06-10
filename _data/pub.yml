@@ -7,14 +7,18 @@
   conf: arXiv
   eprint: '2304.03834'
   img: womdlidar.png
+  mediaa: waymo-logo.svg
+  mediaaurl: https://waymo.com/blog/2023/03/driving-research-forward-waymo-open.html
   primaryclass: cs.CV
   title: 'WOMD-LiDAR: Raw Sensor Dataset Benchmark for Motion Forecasting'
   url: https://arxiv.org/abs/2304.03834
+  web: https://waymo.com/open/challenges/2023/motion-prediction/
   year: '2023'
 - ENTRYTYPE: inproceedings
   ID: mcal
   author: Hang Qiu, Krishna Chintalapudi, Ramesh Govindan
   booktitle: Proceedings of the Eleventh International Conference on Learning Representations
+  code: https://github.com/hangqiu/MCAL
   conf: ICLR
   img: mcal.jpg
   series: ICLR '23
