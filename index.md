@@ -12,7 +12,8 @@ empowering them to communicate and cooperate to achieve capabilities beyond indi
 My research focuses on networked systems problems at the intersection of machine learning systems, robotics, cyber-physical systems, edge computing, and networking.
 
 Before joining UCR as faculty, I was a postdoctoral scholar in the [Platform Lab](https://platformlab.stanford.edu/student/han-qiu/) at [Stanford University](https://www.stanford.edu/), 
-worked in [Microsoft Research](https://www.microsoft.com/en-us/research/group/networking-research/), [IBM Research](https://research.ibm.com/labs/watson/), and collaborated with [General Motors](https://www.gm.com/) over five years. 
+worked in [Microsoft Research](https://www.microsoft.com/en-us/research/group/networking-research/), [IBM Research](https://research.ibm.com/labs/watson/), and collaborated with [General Motors](https://www.gm.com/) over five years.
+I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [University of Southern California](https://www.usc.edu/), and my bachelor degree from the [IIOT](https://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 
 **Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page.
