@@ -7,9 +7,10 @@ I am an Assistant Professor at the [University of California, Riverside](https:/
 where I lead the [Collaborative Intelligence Systems Lab](https://cisl.ucr.edu/) (CISL) which innovates in cooperative robots and autonomous systems for edge ML. 
 I am also a software engineer at [Waymo](https://waymo.com), Google's (Alphabet's) self-driving car spin-off.
 
-My lab's mission is to infuse collaborative intelligence into today's edge ML devices, 
+My lab's mission is to infuse collaborative intelligence into today's autonomous systems, 
+breaking the barriers between robot intelligence, edge/cloud intelligence, and human intelligence,
 empowering them to communicate and cooperate to achieve capabilities beyond individuals.
-My research focuses on networked systems problems at the intersection of machine learning systems, robotics, cyber-physical systems, edge computing, and networking.
+In this interdisciplinary effort, our research focuses on networked systems problems at the intersection of machine learning systems, robotics, cyber-physical systems, edge computing, and networking.
 
 Before joining UCR as faculty, I was a postdoctoral scholar in the [Platform Lab](https://platformlab.stanford.edu/student/han-qiu/) at [Stanford University](https://www.stanford.edu/), 
 worked in [Microsoft Research](https://www.microsoft.com/en-us/research/group/networking-research/), [IBM Research](https://research.ibm.com/labs/watson/), and collaborated with [General Motors](https://www.gm.com/) for over five years.
