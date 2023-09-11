@@ -4,15 +4,15 @@ title: Home
 ---
  
 I am an Assistant Professor at the [University of California, Riverside](https://cisl.ucr.edu/),
-where I lead the [Collaborative Intelligence Systems Lab](https://cisl.ucr.edu/) (CISL) which innovates in cooperative robots and autonomous systems for edge ML. 
-I am also a software engineer at [Waymo](https://waymo.com), Google's (Alphabet's) self-driving car spin-off.
+where I lead the [Collaborative Intelligence Systems Lab](https://cisl.ucr.edu/) (CISL) which innovates in cooperative robots and autonomous systems for edge ML.
 
 My lab's mission is to infuse collaborative intelligence into today's autonomous systems, 
 breaking the barriers between robot intelligence, edge/cloud intelligence, and human intelligence,
 empowering them to communicate and cooperate to achieve capabilities beyond individuals.
 In this interdisciplinary effort, our research focuses on networked systems problems at the intersection of machine learning systems, robotics, cyber-physical systems, edge computing, and networking.
 
-Before joining UCR as faculty, I was a postdoctoral scholar in the [Platform Lab](https://platformlab.stanford.edu/student/han-qiu/) at [Stanford University](https://www.stanford.edu/), 
+Before joining UCR as faculty, I was a software engineer at [Waymo](https://waymo.com), Google's (Alphabet's) self-driving car spin-off, 
+a postdoctoral scholar in the [Platform Lab](https://platformlab.stanford.edu/student/han-qiu/) at [Stanford University](https://www.stanford.edu/), 
 worked in [Microsoft Research](https://www.microsoft.com/en-us/research/group/networking-research/), [IBM Research](https://research.ibm.com/labs/watson/), and collaborated with [General Motors](https://www.gm.com/) for over five years.
 I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [University of Southern California](https://www.usc.edu/), and my bachelor degree from the [IIOT](https://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
