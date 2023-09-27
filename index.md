@@ -5,6 +5,8 @@ title: Home
  
 I am an Assistant Professor at the [University of California, Riverside](https://cisl.ucr.edu/),
 where I lead the [Collaborative Intelligence Systems Lab](https://cisl.ucr.edu/) (CISL) which innovates in cooperative robots and autonomous systems for edge ML.
+I am also a faculty member of Center for Robotics and Intelligent Systems ([CRIS](https://www.cris.ucr.edu/)), 
+and a faculty member of  Center for Environmental Research and Technology ([CE-CERT](https://www.cert.ucr.edu/)).
 
 My lab's mission is to infuse collaborative intelligence into today's autonomous systems, 
 breaking the barriers between robot intelligence, edge/cloud intelligence, and human intelligence,
@@ -28,6 +30,7 @@ I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [U
 
 #### Recent News:
 
+* Sep 2023: *Affiliated with [CE-CERT](https://www.cert.ucr.edu/) ([News](https://www.cert.ucr.edu/news/2023/09/20/ce-cert-welcomes-new-faculty-member-dr-hang-qiu)) and [CRIS](https://www.cris.ucr.edu/).*
 * Jul 2023: *TPC member of [INFOCOM'24](https://infocom2024.ieee-infocom.org/), track co-chair for [ICA3PP'23](http://tjutanklab.com/ica3pp2023/home.html), reviewer for [ICCV'23](https://iccv2023.thecvf.com/)*
 * Jul 2023: *Served as a guest editor for Vehicle Technology Magazine (<a href="http://www.ieeevtc.org/vtmagazine/specisu--Metaverse-CAVS.php">VTM</a>), special issue on vehicle metaverse*
 * May 2023: *Invited talk <a href= "https://iclr.cc/virtual/2023/workshop/12831">Scene Understanding beyond the Visible</a> at <a href="https://opendrivelab.com/sr4ad/iclr23">ICLR'23 SR4AD workshop</a>*
