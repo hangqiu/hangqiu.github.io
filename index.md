@@ -33,6 +33,7 @@ I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [U
 * Sep 2023: *Affiliated with [CE-CERT](https://www.cert.ucr.edu/) ([News](https://www.cert.ucr.edu/news/2023/09/20/ce-cert-welcomes-new-faculty-member-dr-hang-qiu)) and [CRIS](https://www.cris.ucr.edu/).*
 * Jul 2023: *TPC member of [INFOCOM'24](https://infocom2024.ieee-infocom.org/), track co-chair for [ICA3PP'23](http://tjutanklab.com/ica3pp2023/home.html), reviewer for [ICCV'23](https://iccv2023.thecvf.com/)*
 * Jul 2023: *Served as a guest editor for Vehicle Technology Magazine (<a href="http://www.ieeevtc.org/vtmagazine/specisu--Metaverse-CAVS.php">VTM</a>), special issue on vehicle metaverse*
+* Jun 2023: *New [OASIS IFA Award](https://mcusercontent.com/16b960a15758a2e9f6cc8140d/files/10cd5110-9bf7-972e-94e4-7655e311e16a/OASIS_IFA_2nd_Round_Large_and_Small_Awards_compressed.pdf) to support our research*
 * May 2023: *Invited talk <a href= "https://iclr.cc/virtual/2023/workshop/12831">Scene Understanding beyond the Visible</a> at <a href="https://opendrivelab.com/sr4ad/iclr23">ICLR'23 SR4AD workshop</a>*
 * Jan 2023: *<a href= "https://openreview.net/pdf?id=1FxRPKrH8bw">MCAL</a> accepted to ICLR' 23*
 * Dec 2022: *Served as a TPC member for Mobisys'23, AAAI'23 and ICPADS'23, reviewer for CVPR'23, ICRA'23, and CoRL'23*
