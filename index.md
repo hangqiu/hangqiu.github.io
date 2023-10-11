@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
  
-I am an Assistant Professor at the [University of California, Riverside](https://cisl.ucr.edu/),
+I am an Assistant Professor of [ECE](https://www.ece.ucr.edu/) and [CSE](https://www1.cs.ucr.edu/) at the [University of California, Riverside](https://cisl.ucr.edu/),
 where I lead the [Collaborative Intelligence Systems Lab](https://cisl.ucr.edu/) (CISL) which innovates in cooperative robots and autonomous systems for edge ML.
 I am also a faculty member of Center for Robotics and Intelligent Systems ([CRIS](https://www.cris.ucr.edu/)), 
 and a faculty member of Center for Environmental Research and Technology ([CE-CERT](https://www.cert.ucr.edu/)).
