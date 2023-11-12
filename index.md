@@ -21,7 +21,13 @@ I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [U
 
 **Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page.
 
+<hr>
+#### Hiring for Fall 2024:
 
+We are hiring *three* PhDs this cycle in the following areas. Knowledge across areas is a plus.
+* Autonomous Driving
+* ML Systems, Systems for ML
+* Wireless/Vehicular Networking 
 
 ---
 #### Research Highlights:
