@@ -19,7 +19,7 @@ worked in [Microsoft Research](https://www.microsoft.com/en-us/research/group/ne
 I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [University of Southern California](https://www.usc.edu/), and my bachelor degree from the [IIOT](https://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 
-**Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page.
+**Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page. I may not be able to reply every email, but I do read all of them ;-)
 
 <hr>
 #### Hiring for Fall 2024:
