@@ -24,7 +24,7 @@ I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [U
 <hr>
 #### Hiring for Fall 2024:
 
-We are hiring *three* PhDs this cycle, from both *ECE* and *CSE* department, in the following areas. Knowledge across areas is a plus.
+We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department, in the following areas. Knowledge across areas is a plus.
 * Autonomous Driving (CS/EE)
 * ML Systems, Systems for ML (EE/CS)
 * Wireless/Vehicular Networking (EE)
