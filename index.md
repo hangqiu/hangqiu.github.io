@@ -36,6 +36,7 @@ We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department,
 
 #### Recent News:
 
+* Jan 2023: *ARPA-I [Intesrection Safety Challenge Award](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge)*
 * Oct 2023: *Serving on the TPC of [Mobisys'24](https://www.sigmobile.org/mobisys/2024/), [VehicleSec'24](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/)*
 * Oct 2023: *Invited talk at [ICTC'23 SPC Special Session](https://ictc.org/program_special)*
 * Sep 2023: *Affiliated with [CE-CERT](https://www.cert.ucr.edu/) ([News](https://www.cert.ucr.edu/news/2023/09/20/ce-cert-welcomes-new-faculty-member-dr-hang-qiu)) and [CRIS](https://www.cris.ucr.edu/).*
