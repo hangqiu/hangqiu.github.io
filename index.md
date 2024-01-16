@@ -36,7 +36,7 @@ We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department,
 
 #### Recent News:
 
-* Jan 2024: Invited talk at the inaugural Trustworthy Autonomous Cyber-Physical Systems ([TACPS](https://www.tacps.org/))*
+* Jan 2024: *Invited talk at the inaugural Trustworthy Autonomous Cyber-Physical Systems ([TACPS](https://www.tacps.org/))*
 * Jan 2024: *ARPA-I [Intesrection Safety Challenge Award](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge)*
 * Oct 2023: *Serving on the TPC of [Mobisys'24](https://www.sigmobile.org/mobisys/2024/), [VehicleSec'24](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/), reviewer for [CVPR'24]([https://cvpr.thecvf.com/](https://cvpr.thecvf.com/Conferences/2024))*
 * Oct 2023: *Invited talk at [ICTC'23 SPC Special Session](https://ictc.org/program_special)*
