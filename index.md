@@ -36,12 +36,13 @@ We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department,
 
 #### Recent News:
 
-* Feb 2024: *Co-organizing [ACM Mobisys Workshop on Adaptive AIoT Systems](https://www.eventcreate.com/e/adaaiotsys2024)*
+* Feb 2024: *Co-organizing [CVPR'24 Autonomous Driving Challenge](https://opendrivelab.com/cvpr2024/workshop/) (Workshop on Foundation Models for Autonomous Systems)*
+* Feb 2024: *Co-organizing [Mobisys'24 Workshop on Adaptive AIoT Systems](https://www.eventcreate.com/e/adaaiotsys2024)*
 * Jan 2024: *[WOMD-Lidar](https://arxiv.org/abs/2304.03834) accepted by [ICRA'24](https://2024.ieee-icra.org/)*
 * Jan 2024: *Invited talk at the inaugural Trustworthy Autonomous Cyber-Physical Systems ([TACPS](https://www.tacps.org/))*
 * Jan 2024: *ARPA-I [Intesrection Safety Challenge Award](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge)*
 * Oct 2023: *Serving on the TPC of [Mobisys'24](https://www.sigmobile.org/mobisys/2024/), [VehicleSec'24](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/), reviewer for [CVPR'24]([https://cvpr.thecvf.com/](https://cvpr.thecvf.com/Conferences/2024))*
-* Oct 2023: *Invited talk at [ICTC'23 SPC Special Session](https://ictc.org/program_special)*
+* Oct 2023: *Invited talk at [ICTC'23 SPC Special Session](https://2023.ictc.org/program_special)*
 * Sep 2023: *Affiliated with [CE-CERT](https://www.cert.ucr.edu/) ([News](https://www.cert.ucr.edu/news/2023/09/20/ce-cert-welcomes-new-faculty-member-dr-hang-qiu)) and [CRIS](https://www.cris.ucr.edu/).*
 * Jul 2023: *TPC member of [INFOCOM'24](https://infocom2024.ieee-infocom.org/), track co-chair for [ICA3PP'23](http://tjutanklab.com/ica3pp2023/home.html), reviewer for [ICCV'23](https://iccv2023.thecvf.com/)*
 * Jul 2023: *Served as a guest editor for Vehicle Technology Magazine (<a href="http://www.ieeevtc.org/vtmagazine/specisu--Metaverse-CAVS.php">VTM</a>), special issue on vehicle metaverse*
