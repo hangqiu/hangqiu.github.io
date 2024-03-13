@@ -36,6 +36,7 @@ We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department,
 
 #### Recent News:
 
+* Feb 2024: *Co-organizing [ACM Mobisys Workshop on Adaptive AIoT Systems](https://www.eventcreate.com/e/adaaiotsys2024)*
 * Jan 2024: *[WOMD-Lidar](https://arxiv.org/abs/2304.03834) accepted by [ICRA'24](https://2024.ieee-icra.org/)*
 * Jan 2024: *Invited talk at the inaugural Trustworthy Autonomous Cyber-Physical Systems ([TACPS](https://www.tacps.org/))*
 * Jan 2024: *ARPA-I [Intesrection Safety Challenge Award](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge)*
