@@ -36,6 +36,8 @@ We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department,
 
 #### Recent News:
 
+* Apr 2024: *Serving on the TPC of [NSDI'25](https://www.usenix.org/conference/nsdi25)*
+* Mar 2024: *Co-organizing [SoCal Robotic Symposium'24](https://robotics.ucr.edu/scr-2024)*
 * Feb 2024: *Co-organizing [CVPR'24 Autonomous Driving Challenge](https://opendrivelab.com/cvpr2024/workshop/) (Workshop on Foundation Models for Autonomous Systems)*
 * Feb 2024: *Co-organizing [Mobisys'24 Workshop on Adaptive AIoT Systems](https://www.eventcreate.com/e/adaaiotsys2024)*
 * Jan 2024: *[WOMD-Lidar](https://arxiv.org/abs/2304.03834) accepted by [ICRA'24](https://2024.ieee-icra.org/)*
