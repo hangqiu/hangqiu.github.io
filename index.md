@@ -21,13 +21,12 @@ I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [U
 
 **Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page. I may not be able to reply every email, but I do read all of them ;-)
 
-<!-- <hr>
-#### Hiring for Fall 2024:
 
-We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department, in the following areas. Knowledge across areas is a plus.
-* Autonomous Driving (CS/EE)
-* ML Systems, Systems for ML (EE/CS)
-* Wireless/Vehicular Networking (EE) -->
+#### Hiring for Fall 2025:
+
+We are hiring from both **ECE** and **CSE** department, in the following areas.
+* Networked Systems, CPS, IoT
+* ML Systems, Systems for ML
 
 ---
 #### Research Highlights:
@@ -36,7 +35,7 @@ We are hiring *three* PhDs this cycle, from both **ECE** and **CSE** department,
 
 #### Recent News:
 
-* Apr 2024: *Serving on the TPC of [NSDI'25](https://www.usenix.org/conference/nsdi25), reviewer for [ECCV '24](https://eccv.ecva.net/Conferences/2024)* 
+* Apr 2024: *Serving on the TPC of [NSDI'25](https://www.usenix.org/conference/nsdi25), reviewer for [ECCV '24](https://eccv.ecva.net/Conferences/2024), [CoRL '24](https://www.corl.org/home)* 
 * Mar 2024: *Co-organizing [SoCal Robotic Symposium'24](https://robotics.ucr.edu/scr-2024)*
 * Feb 2024: *Co-organizing [CVPR'24 Autonomous Driving Challenge](https://opendrivelab.com/cvpr2024/workshop/) (Workshop on Foundation Models for Autonomous Systems)*
 * Feb 2024: *Co-organizing [Mobisys'24 Workshop on Adaptive AIoT Systems](https://www.eventcreate.com/e/adaaiotsys2024)*
