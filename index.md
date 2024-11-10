@@ -35,8 +35,9 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 
 #### Recent News:
 
+* Nov 2024: *Serving on the TPC of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/)*
 * Sep 2024: *[Harbor]() accepted by [Sensys '24](https://sensys.acm.org/2024/)*
-* Aug 2024: *Serving on the Organizing Committee of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [HotMobile'25](https://hotmobile.org/2025/)*
+* Aug 2024: *Serving on the Organizing Committee of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/), [HotMobile'25](https://hotmobile.org/2025/)*
 * Aug 2024: *Serving on the TPC of [Mobicom'25](https://www.sigmobile.org/mobicom/2025/), [Infocom'25](https://infocom2025.ieee-infocom.org/), reviewer for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/)* 
 * Jul 2024: *Joined USDOT [CARNATIONS](https://www.iitcarnations.org/) Center*
 * Jul 2024: *[ELM](https://arxiv.org/abs/2403.04593) accepted by [ECCV' 24](https://eccv.ecva.net/Conferences/2024)*
