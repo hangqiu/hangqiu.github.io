@@ -34,7 +34,7 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 ---
 
 #### Recent News:
-
+* Jan 2025: *US DOT [Intesrection Safety Challenge Award](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) Stage 1B*
 * Nov 2024: *Serving on the TPC of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/)*
 * Sep 2024: *[Harbor]() accepted by [Sensys '24](https://sensys.acm.org/2024/)*
 * Aug 2024: *Serving on the Organizing Committee of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/), [HotMobile'25](https://hotmobile.org/2025/)*
