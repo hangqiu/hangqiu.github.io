@@ -28,11 +28,6 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 * Cyber-Physical Systems, IoT
 * ML Systems, Systems for ML
 
----
-#### Research Highlights:
-{% include research_highlight.html %}
----
-
 #### Recent News:
 * Jan 2025: *US DOT [Intesrection Safety Challenge Award](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) Stage 1B*
 * Nov 2024: *Serving on the TPC of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/)*
