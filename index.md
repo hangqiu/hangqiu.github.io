@@ -34,8 +34,10 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 ---
 
 #### Recent News:
+* Jan 2025: *New [OASIS IFA Award](https://oasis.ucr.edu/) to support our research*
+* Jan 2025: *SEE-V2X conditionally accepted by [Sensys '25]((https://sensys.acm.org/2025/))*
 * Jan 2025: *US DOT [Intesrection Safety Challenge Award](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) Stage 1B*
-* Nov 2024: *Serving on the TPC of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/)*
+* Nov 2024: *Serving on the TPC of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/), [VehicleSec '25](https://www.usenix.org/conference/vehiclesec25)*
 * Sep 2024: *[Harbor]() accepted by [Sensys '24](https://sensys.acm.org/2024/)*
 * Aug 2024: *Serving on the Organizing Committee of [Mobisys'25](https://www.sigmobile.org/mobisys/2025/), [Sensys '25](https://sensys.acm.org/2025/), [HotMobile'25](https://hotmobile.org/2025/)*
 * Aug 2024: *Serving on the TPC of [Mobicom'25](https://www.sigmobile.org/mobicom/2025/), [Infocom'25](https://infocom2025.ieee-infocom.org/), reviewer for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/)* 
