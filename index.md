@@ -28,11 +28,6 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 * Cyber-Physical Systems, IoT
 * ML Systems, Systems for ML
 
----
-#### Research Highlights:
-{% include research_highlight.html %}
----
-
 #### Recent News:
 * Jan 2025: *New [OASIS IFA Award](https://oasis.ucr.edu/) to support our research*
 * Jan 2025: *SEE-V2X conditionally accepted by [Sensys '25]((https://sensys.acm.org/2025/))*
