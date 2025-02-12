@@ -29,6 +29,7 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 * ML Systems, Systems for ML
 
 #### Recent News:
+* Feb 2025: *CATS accepted by TVT*
 * Jan 2025: *[CMP](https://cmp-cooperative-prediction.github.io/) accepted by RA-L*
 * Jan 2025: *New [OASIS IFA Award](https://oasis.ucr.edu/) to support our research*
 * Jan 2025: *SEE-V2X conditionally accepted by [Sensys '25]((https://sensys.acm.org/2025/))*
