@@ -29,6 +29,7 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 * ML Systems, Systems for ML
 
 #### Recent News:
+* Feb 2025: *Attended [National Academy of Engineering Early Career Engineering Convocation (E2C2)](https://www.nae.edu/326607/2025-NAE-National-Meeting-Engineering-Innovation-for-a-Brighter-Future#tabs)*
 * Feb 2025: *[CATS](https://arxiv.org/abs/2503.00659) accepted by IEEE TVT*
 * Jan 2025: *[CMP](https://cmp-cooperative-prediction.github.io/) accepted by RA-L*
 * Jan 2025: *New [OASIS IFA Award](https://oasis.ucr.edu/) to support our research*
