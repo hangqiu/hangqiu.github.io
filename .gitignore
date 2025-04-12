@@ -1,0 +1,4 @@
+Gemfile.lock
+_site/
+_includes/twitter_credential.py
+**/__pycache__/

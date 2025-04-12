@@ -1,3 +1,26 @@
+.layout {
+}
+@media (min-width: 48em) and (min-height: 36em){
+  .layout {
+    display: flex;
+    /* align-items: stretch; */
+    min-height: 100vh;
+  }
+}
+
+.twitter {
+  display: none;
+}
+@media (min-width: 48em) and (min-height: 36em){
+  .twitter {
+    display: block !important;
+    overflow-x: auto;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    box-sizing: border-box;
+  }
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -11,7 +34,6 @@
   width: 8rem;
   border-radius: 50%;
 }
-
 
 .right {
   float: right;
