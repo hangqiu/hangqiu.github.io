@@ -21,12 +21,15 @@ I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [U
 
 **Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page. I may not be able to reply every email, but I do read all of them ;-)
 
+<hr>
 
-#### Hiring for Fall 2025:
+#### Hiring for Fall 2026:
 
 We are hiring from both **ECE** and **CSE** department, in the following areas.
-* Cyber-Physical Systems, IoT
+* Vehicular/Robotic Networks, Edge Computing
 * ML Systems, Systems for ML
+
+<hr>
 
 #### Recent News:
 * Feb 2025: *Attended [National Academy of Engineering Early Career Engineering Convocation (E2C2)](https://www.nae.edu/326607/2025-NAE-National-Meeting-Engineering-Innovation-for-a-Brighter-Future#tabs)*
