@@ -50,7 +50,7 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 </ul>
 
 <details>
-  <summary>Ealier News</summary>
+  <summary>Previous Updates</summary>
   <ul>
     {% assign recent_count = 0 %}
     {% for item in all_news %}
