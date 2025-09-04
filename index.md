@@ -31,10 +31,38 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 
 <hr>
 
+
 #### Recent News:
-{% assign news = site.data.news | concat: site.data.lab_news | sort : "date" | reverse %}
+{% assign all_news = site.data.news | concat: site.data.lab_news | sort: "date" | reverse %}
+{% assign cutoff_date = 'now' | date: "%s" | plus: 0 | minus: 63072000 %}
+
 <ul>
-{% for item in news %}
-    <li> {{ item.date | date: "%b %Y"}}: <em>{{ item.title | markdownify | remove: '<p>' | remove: '</p>'}}</em></li>
-{% endfor %}
+  {% assign recent_count = 0 %}
+  {% for item in all_news %}
+    {% assign item_date = item.date | date: "%s" | plus: 0 %}
+    {% if item_date >= cutoff_date and recent_count < 15 %}
+      <li>{{ item.date | date: "%b %Y"}}:
+        <em>{{ item.title | markdownify | remove: '<p>' | remove: '</p>'}}</em>
+      </li>
+      {% assign recent_count = recent_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
 </ul>
+
+<details>
+  <summary>Ealier News</summary>
+  <ul>
+    {% assign recent_count = 0 %}
+    {% for item in all_news %}
+      {% assign item_date = item.date | date: "%s" | plus: 0 %}
+      {% if item_date < cutoff_date or recent_count >= 15 %}
+        <li>{{ item.date | date: "%b %Y"}}:
+          <em>{{ item.title | markdownify | remove: '<p>' | remove: '</p>'}}</em>
+        </li>
+      {% endif %}
+      {% if item_date >= cutoff_date %}
+        {% assign recent_count = recent_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</details>
