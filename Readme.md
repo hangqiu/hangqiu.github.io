@@ -1,4 +1,4 @@
-** Git Actions
+### Git Actions
 - Fetch the _data/lab_news.yml from CISL-UCR.github.io automatically every day.
 
 
