@@ -14,4 +14,7 @@ bundle update
 jekyll build
 jekyll serve
 ``` 
+
+Alternatively, there is a git action that is fetching the lab news automatically every day.
+
 publish the _site folder
