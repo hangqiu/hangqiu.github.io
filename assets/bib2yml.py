@@ -1,11 +1,12 @@
 import os
 import argparse
 import bibtexparser
+from bibtexparser.bparser import BibTexParser
 import yaml
 from tqdm import tqdm
 
 paper_dir = 'papers'
-output_dir = './_data/pub.yml'
+output_dir = './_data/service.yml'
 
 booktitle_series_map = {
     "International Conference on Learning Representations": "ICLR",
@@ -30,7 +31,7 @@ def add_new_articles(bibdbs):
 
     yml = open(output_dir, 'w')
     output_lines = []
-    bibdbs = sorted(bibdbs, key=lambda pub: pub['year'], reverse=True)
+    # bibdbs = sorted(bibdbs, key=lambda pub: pub['year'], reverse=True)
     for i in range(len(bibdbs)):
         bibdb = bibdbs[i]
         # print(bibdb)
@@ -57,36 +58,37 @@ def add_new_articles(bibdbs):
 
         # print(bibdb['author'])
         bibdb = bibtexparser.customization.author(bibdb)
-        # print(bibdb['author'])
-        author_field = ""
-        prev_author_field = bibdb['author']
-        for j in range(len(prev_author_field)-1):
-            author = prev_author_field[j]
-            author_field += author.split(', ')[1] + " "  + author.split(',')[0] + ", "
-        author_field += prev_author_field[-1].split(', ')[1] + " " + prev_author_field[-1].split(',')[0]
-        bibdb['author'] = author_field
-        # print(bibdb['author'])
-        # output = yaml.dump(bibdb, default_flow_style=False)
-        # print(output)
-        # output_lines.append("-\n")
-        # output_lines.append(output)
+        if 'author' in bibdb:
+            # print(bibdb['author'])
+            author_field = ""
+            prev_author_field = bibdb['author']
+            for j in range(len(prev_author_field)-1):
+                author = prev_author_field[j]
+                author_field += author.split(', ')[1] + " "  + author.split(',')[0] + ", "
+            author_field += prev_author_field[-1].split(', ')[1] + " " + prev_author_field[-1].split(',')[0]
+            bibdb['author'] = author_field
+            # print(bibdb['author'])
+            # output = yaml.dump(bibdb, default_flow_style=False)
+            # print(output)
+            # output_lines.append("-\n")
+            # output_lines.append(output)
 
     f = open(output_dir, "w")
     # f.writelines(output_lines)
     yaml.dump(bibdbs, f, default_flow_style=False)
     f.close()
 
-
-
+bibparser = BibTexParser()
+bibparser.ignore_nonstandard_types = False
 
 def add_new_articles_from_tex_file(tex_fp):
     bibfile = open(tex_fp)
-    bibdb = bibtexparser.load(bibfile)
+    bibdb = bibtexparser.load(bibfile, parser=bibparser)
     add_new_articles(bibdb.entries)
     bibfile.close()
 
 def add_new_articles_from_tex_string(tex_string):
-    bibdb = bibtexparser.loads(tex_string)
+    bibdb = bibtexparser.loads(tex_string, parser=bibparser)
     add_new_articles(bibdb.entries)
 
 if __name__ == "__main__":

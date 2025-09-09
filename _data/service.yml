@@ -1,0 +1,333 @@
+- ENTRYTYPE: oc
+  ID: sensys25_oc
+  conf: SenSys
+  keywords: nonumber
+  note: Sponsor Chair
+  series: SenSys
+  venue: ACM Conference on Embedded Network Sensor Systems
+  year: '2025'
+- ENTRYTYPE: oc
+  ID: mobisys25_oc
+  conf: MobiSys
+  keywords: nonumber
+  note: Poster Chair
+  series: MobiSys
+  venue: ACM Conference on Mobile Systems, Applications, and Services
+  year: '2025'
+- ENTRYTYPE: oc
+  ID: mobisys25_sc
+  conf: MobiSys
+  keywords: nonumber
+  note: Session Chair
+  series: MobiSys
+  venue: ACM Conference on Mobile Systems, Applications, and Services
+  year: '2025'
+- ENTRYTYPE: oc
+  ID: hotmobile25_oc
+  conf: HotMobile
+  keywords: nonumber
+  note: Local Chair
+  series: HotMobile
+  venue: ACM Workshop on Mobile Computing Systems and Applications
+  year: '2025'
+- ENTRYTYPE: oc
+  ID: scr24_oc
+  conf: SCR
+  keywords: nonumber
+  note: Co-organizer
+  series: SCR
+  venue: SoCal Robotics Symposium
+  year: '2024'
+- ENTRYTYPE: oc
+  ID: mobisys24_oc
+  conf: MobiSys
+  keywords: nonumber
+  note: Session Chair
+  series: MobiSys
+  venue: ACM Conference on Mobile Systems, Applications, and Services
+  year: '2024'
+- ENTRYTYPE: oc
+  ID: infocom24_oc
+  conf: INFOCOM
+  keywords: nonumber
+  note: Session Chair
+  series: INFOCOM
+  venue: IEEE Conference on Computer Communications
+  year: '2024'
+- ENTRYTYPE: oc
+  ID: mobisys24_ws
+  conf: MobiSys
+  keywords: nonumber
+  note: Co-Chair
+  series: MobiSys
+  venue: Workshop on Adaptive AIoT Systems
+  year: '2024'
+- ENTRYTYPE: oc
+  ID: cvpr24_oc
+  conf: CVPR
+  keywords: nonumber
+  note: Co-organizer
+  series: CVPR
+  venue: Workshop on Foundation Models for Autonomous Systems
+  year: '2024'
+- ENTRYTYPE: oc
+  ID: smartcomp21_oc
+  conf: SmartComp
+  keywords: nonumber
+  note: Chair
+  series: SmartComp
+  venue: Tutorial on 3D sensing for autonomous robots and smart infrastructure
+  year: '2021'
+- ENTRYTYPE: tpc
+  ID: nsdi25_tpc
+  conf: NSDI
+  keywords: nonumber
+  series: NSDI
+  venue: USENIX Symposium on Networked Systems Design and Implementation
+  year: '2025'
+- ENTRYTYPE: tpc
+  ID: MobiCom25_tpc
+  conf: MobiCom
+  keywords: nonumber
+  series: MobiCom
+  venue: ACM International Conference on Mobile Computing and Networking
+  year: '2025'
+- ENTRYTYPE: tpc
+  ID: MobiCom26_tpc
+  conf: MobiCom
+  keywords: nonumber
+  series: MobiCom
+  venue: ACM International Conference on Mobile Computing and Networking
+  year: '2026'
+- ENTRYTYPE: tpc
+  ID: mobisys25_tpc
+  conf: MobiSys
+  keywords: nonumber
+  series: MobiSys
+  venue: ACM International Conference on Mobile Systems, Applications, and Services
+  year: '2025'
+- ENTRYTYPE: tpc
+  ID: mobisys24_tpc
+  conf: MobiSys
+  keywords: nonumber
+  series: MobiSys
+  venue: ACM International Conference on Mobile Systems, Applications, and Services
+  year: '2024'
+- ENTRYTYPE: tpc
+  ID: mobisys23_tpc
+  conf: MobiSys
+  keywords: nonumber
+  series: MobiSys
+  venue: ACM International Conference on Mobile Systems, Applications, and Services
+  year: '2023'
+- ENTRYTYPE: tpc
+  ID: sensys25_tpc
+  conf: SenSys
+  keywords: nonumber
+  series: SenSys
+  venue: ACM Conference on Embedded Network Sensor Systems
+  year: '2025'
+- ENTRYTYPE: tpc
+  ID: vehiclesec25_tpc
+  conf: VehicleSec
+  keywords: nonumber
+  series: VehicleSec
+  venue: USENIX Symposium on Vehicle Security and Privacy
+  year: '2025'
+- ENTRYTYPE: tpc
+  ID: vehiclesec24_tpc
+  conf: VehicleSec
+  keywords: nonumber
+  series: VehicleSec
+  venue: USENIX Symposium on Vehicle Security and Privacy
+  year: '2024'
+- ENTRYTYPE: tpc
+  ID: infocom25_tpc
+  conf: INFOCOM
+  keywords: nonumber
+  series: INFOCOM
+  venue: IEEE Conference on Computer Communications
+  year: '2025'
+- ENTRYTYPE: tpc
+  ID: infocom24_tpc
+  conf: INFOCOM
+  keywords: nonumber
+  series: INFOCOM
+  venue: IEEE Conference on Computer Communications
+  year: '2024'
+- ENTRYTYPE: tpc
+  ID: ICPADS22_tpc
+  conf: ICPADS
+  keywords: nonumber
+  series: ICPADS
+  venue: IEEE International Conference on Parallel and Distributed Systems
+  year: '2022'
+- ENTRYTYPE: reviewer
+  ID: nsf25
+  conf: NSF
+  keywords: nonumber, grant
+  note: Panelist
+  series: NSF
+  venue: National Science Foundation
+  year: '2025'
+- ENTRYTYPE: reviewer
+  ID: vtm25
+  conf: VTM
+  keywords: nonumber, editor
+  note: Guest Editor
+  series: VTM
+  venue: IEEE Vehicular Technology Magazine
+  year: '2025'
+- ENTRYTYPE: reviewer
+  ID: ieee24
+  conf: IEEE Standard Association
+  keywords: nonumber, standard
+  note: Member
+  series: IEEE Standard Association
+  venue: Autonomous Agent Alignment Working Group
+  year: '2024'
+- ENTRYTYPE: reviewer
+  ID: cvpr
+  conf: CVPR
+  keywords: nonumber, conf
+  series: CVPR
+  venue: IEEE/CVF Computer Vision and Pattern Recognition Conference
+- ENTRYTYPE: reviewer
+  ID: iccv
+  conf: ICCV
+  keywords: nonumber, conf
+  series: ICCV
+  venue: IEEE/CVF International Conference on Computer Vision
+- ENTRYTYPE: reviewer
+  ID: eccv
+  conf: ECCV
+  keywords: nonumber, conf
+  series: ECCV
+  venue: European Conference on Computer Vision
+- ENTRYTYPE: reviewer
+  ID: corl
+  conf: CoRL
+  keywords: nonumber, conf
+  series: CoRL
+  venue: Conference on Robot Learning
+- ENTRYTYPE: reviewer
+  ID: icra
+  conf: ICRA
+  keywords: nonumber, conf
+  series: ICRA
+  venue: IEEE International Conference on Robotics and Automation
+- ENTRYTYPE: reviewer
+  ID: aaai
+  conf: AAAI
+  keywords: nonumber, conf
+  series: AAAI
+  venue: AAAI Conference on Artificial Intelligence
+- ENTRYTYPE: reviewer
+  ID: sc
+  conf: SC
+  keywords: nonumber, conf
+  series: SC
+  venue: International Conference for High Performance Computing, Networking, Storage,
+    and Analysis
+- ENTRYTYPE: reviewer
+  ID: sigmetrics
+  conf: SIGMETRICS
+  keywords: nonumber, conf
+  series: SIGMETRICS
+  venue: ACM International Conference on Measurement and Modeling of Computer Systems
+- ENTRYTYPE: reviewer
+  ID: sec
+  conf: SEC
+  keywords: nonumber, conf
+  series: SEC
+  venue: ACM/IEEE Symposium on Edge Computing
+- ENTRYTYPE: reviewer
+  ID: ipsn
+  conf: IPSN
+  keywords: nonumber, conf
+  series: IPSN
+  venue: ACM International Conference on Information Processing in Sensor Networks
+- ENTRYTYPE: reviewer
+  ID: secon
+  conf: SECON
+  keywords: nonumber, conf
+  series: SECON
+  venue: IEEE International Conference on Sensing, Communication and Networking
+- ENTRYTYPE: reviewer
+  ID: vnc
+  conf: VNC
+  keywords: nonumber, conf
+  series: VNC
+  venue: IEEE Vehicular Networking Conference
+- ENTRYTYPE: reviewer
+  ID: icpads
+  conf: ICPADS
+  keywords: nonumber, conf
+  series: ICPADS
+  venue: IEEE International Conference on Parallel and Distributed Systems
+- ENTRYTYPE: reviewer
+  ID: ton
+  conf: TON
+  keywords: nonumber, journal
+  series: TON
+  venue: IEEE Transactions on Networking
+- ENTRYTYPE: reviewer
+  ID: jsac
+  conf: JSAC
+  keywords: nonumber, journal
+  series: JSAC
+  venue: IEEE Journal on Selected Areas in Communications
+- ENTRYTYPE: reviewer
+  ID: net
+  conf: Network
+  keywords: nonumber, journal
+  series: Network
+  venue: IEEE Network Magazine
+- ENTRYTYPE: reviewer
+  ID: ral
+  conf: RA-L
+  keywords: nonumber, journal
+  series: RA-L
+  venue: IEEE Robotics and Automation Letters
+- ENTRYTYPE: reviewer
+  ID: tvt
+  conf: TVT
+  keywords: nonumber, journal
+  series: TVT
+  venue: IEEE Transactions on Vehicular Technology
+- ENTRYTYPE: reviewer
+  ID: TMC
+  conf: TMC
+  keywords: nonumber, journal
+  series: TMC
+  venue: IEEE Transactions on Mobile Computing
+- ENTRYTYPE: reviewer
+  ID: access
+  conf: Access
+  keywords: nonumber, journal
+  series: Access
+  venue: IEEE Access
+- ENTRYTYPE: reviewer
+  ID: TCC
+  conf: TCC
+  keywords: nonumber, journal
+  series: TCC
+  venue: IEEE Transactions on Cloud Computing
+- ENTRYTYPE: reviewer
+  ID: its
+  conf: T-ITS
+  keywords: nonumber, journal
+  series: T-ITS
+  venue: IEEE Transactions on Intelligent Transportation Systems
+- ENTRYTYPE: reviewer
+  ID: iot
+  conf: IoT-J
+  keywords: nonumber, journal
+  series: IoT-J
+  venue: IEEE Internet of Things Journal
+- ENTRYTYPE: reviewer
+  ID: VTM
+  conf: VTM
+  keywords: nonumber, journal
+  series: VTM
+  venue: IEEE Vehicular Technology Magazine
