@@ -1,5 +1,6 @@
 ### Git Actions
-- Fetch the _data/lab_news.yml from CISL-UCR.github.io automatically every day.
+- Fetch the _data/lab_news.yml from UCR-CISL.github.io automatically every day.
+- Upon push of services.bib, convert to _data/service.yml 
 
 
 Prerequisites
