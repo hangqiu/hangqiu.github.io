@@ -1,4 +1,12 @@
 - ENTRYTYPE: oc
+  ID: icra26_ac
+  conf: ICRA
+  keywords: nonumber
+  note: Area Chair
+  series: ICRA
+  venue: IEEE International Conference on Robotics and Automation
+  year: '2026'
+- ENTRYTYPE: oc
   ID: sensys25_oc
   conf: SenSys
   keywords: nonumber
