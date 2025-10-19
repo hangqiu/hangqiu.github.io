@@ -26,6 +26,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add _data/service.yml
+          git add _data/service_auto.yml
           git commit -m "Auto-update service.yml from bib (trigger: ${{ github.sha }})" || echo "No changes"
           git push
