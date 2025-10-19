@@ -1,4 +1,18 @@
-- ENTRYTYPE: oc
+- ENTRYTYPE: tpc
+  ID: mobisys26_tpc
+  conf: MobiSys
+  keywords: nonumber
+  series: MobiSys
+  venue: ACM International Conference on Mobile Systems, Applications, and Services
+  year: '2026'
+- ENTRYTYPE: tpc
+  ID: MobiCom26_tpc
+  conf: MobiCom
+  keywords: nonumber
+  series: MobiCom
+  venue: ACM International Conference on Mobile Computing and Networking
+  year: '2026'
+- ENTRYTYPE: tpc
   ID: icra26_ac
   conf: ICRA
   keywords: nonumber
@@ -100,13 +114,6 @@
   series: MobiCom
   venue: ACM International Conference on Mobile Computing and Networking
   year: '2025'
-- ENTRYTYPE: tpc
-  ID: MobiCom26_tpc
-  conf: MobiCom
-  keywords: nonumber
-  series: MobiCom
-  venue: ACM International Conference on Mobile Computing and Networking
-  year: '2026'
 - ENTRYTYPE: tpc
   ID: mobisys25_tpc
   conf: MobiSys

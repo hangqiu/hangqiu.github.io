@@ -4,7 +4,7 @@ title: Service
 ---
 #### Organizing Committee
 
-{% assign all_service = site.data.service | sort: "year" | reverse %}
+{% assign all_service = site.data.service_auto | sort: "year" | reverse %}
 <ul>
   {% assign seen_series = "" | split: "" %}
   {% for item in all_service %}
@@ -32,7 +32,7 @@ title: Service
 * ACM Conference on Embedded Networked Sensor Systems (SenSys'25)
 * ACM International Workshop on Mobile Computing Systems and Applications (HotMobile'25) -->
 
-#### Technical Program Committee
+#### Technical Program Committee and Area Chairs
 
 <ul>
   {% assign seen_series = "" | split: "" %}
@@ -67,7 +67,7 @@ title: Service
 * USENIX Symposium on Vehicle Security and Privacy (VehicleSec'25) -->
 
 #### Conference Reviewer
-{% assign all_service = site.data.service %}
+{% assign all_service = site.data.service_auto %}
 <ul>
   {% for item in all_service %}
     {% if item.ENTRYTYPE == "reviewer" and item.keywords contains "conf" %}
