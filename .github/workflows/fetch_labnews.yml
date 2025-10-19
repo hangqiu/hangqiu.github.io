@@ -1,4 +1,4 @@
-name: Auto-sync lab_news.yml from source repo
+name: Auto-sync lab_news_auto.yml from source repo
 
 on:
   schedule:
@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Download latest lab_news.yml
+      - name: Download latest lab_news_auto.yml
         run: |
-          curl -L https://raw.githubusercontent.com/UCR-CISL/UCR-CISL.github.io/main/_data/news.yml -o _data/lab_news.yml
+          curl -L https://raw.githubusercontent.com/UCR-CISL/UCR-CISL.github.io/main/_data/news.yml -o _data/lab_news_auto.yml
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add _data/lab_news.yml
-          git commit -m "Auto-sync lab_news.yml from source repo" || echo "No changes"
+          git add _data/lab_news_auto.yml
+          git commit -m "Auto-sync lab_news_auto.yml from source repo" || echo "No changes"
           git push

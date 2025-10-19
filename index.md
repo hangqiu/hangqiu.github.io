@@ -33,7 +33,7 @@ We are hiring from both **ECE** and **CSE** department, in the following areas.
 
 
 #### Recent News:
-{% assign all_news = site.data.news | concat: site.data.lab_news | sort: "date" | reverse %}
+{% assign all_news = site.data.news | concat: site.data.lab_news_auto | sort: "date" | reverse %}
 {% assign cutoff_date = 'now' | date: "%s" | plus: 0 | minus: 63072000 %}
 
 <ul>
