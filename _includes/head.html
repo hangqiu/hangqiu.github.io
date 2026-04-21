@@ -14,6 +14,18 @@
     {% endif %}
   </title>
 
+  <!-- SEO -->
+  <meta name="description" content="Hang Qiu — Assistant Professor at UC Riverside, research in autonomous systems, edge ML, and networked sensing.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}">
+  <meta property="og:description" content="Hang Qiu — Assistant Professor at UC Riverside, research in autonomous systems, edge ML, and networked sensing.">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/HangQ.jpg">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="Hang Qiu — Assistant Professor at UC Riverside, research in autonomous systems, edge ML, and networked sensing.">
+
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/mine.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
