@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <img src="{{ site.baseurl }}/assets/HangQ.jpg" alt="Avatar" class="centeravatar">
+      <img src="{{ site.baseurl }}/assets/HangQ.jpg" alt="Hang Qiu" class="centeravatar">
       <h1>
         <a href="{{ site.baseurl }}/">
           {{ site.title }}
@@ -12,12 +12,12 @@
     <div class="social-icons">
       <div class="social-icons-right">
         <div class="right">
-          <a class="ai ai-google-scholar" href="https://scholar.google.com/citations?user=9i_MgykAAAAJ&hl=en"></a>
-          <a class="fa fa-github" href="https://github.com/hangqiu"></a>
-          <a class="fa fa-twitter" href="https://twitter.com/hangqiu"></a>
-          <a class="fa fa-facebook" href="https://facebook.com/hang.qiu.1"></a>
-          <a class="fa fa-linkedin" href="https://www.linkedin.com/in/hang-qiu-a523128a"></a>
-          <a class="fa fa-envelope" href="mailto:hangq@ucr.edu"></a>
+          <a class="ai ai-google-scholar" href="https://scholar.google.com/citations?user=9i_MgykAAAAJ&hl=en" aria-label="Google Scholar"></a>
+          <a class="fab fa-github" href="https://github.com/hangqiu" aria-label="GitHub"></a>
+          <a class="fab fa-twitter" href="https://twitter.com/hangqiu" aria-label="Twitter"></a>
+          <a class="fab fa-facebook" href="https://facebook.com/hang.qiu.1" aria-label="Facebook"></a>
+          <a class="fab fa-linkedin" href="https://www.linkedin.com/in/hang-qiu-a523128a" aria-label="LinkedIn"></a>
+          <a class="fas fa-envelope" href="mailto:hangq@ucr.edu" aria-label="Email"></a>
         </div>
       </div>
     </div>
@@ -25,11 +25,6 @@
     <div></div>
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
 
       <a class="sidebar-nav-item" href="https://cisl.ucr.edu/">Lab</a>
       <a class="sidebar-nav-item" href="https://cisl.ucr.edu/publication/">Publication</a>
@@ -44,8 +39,6 @@
         {% endif %}
       {% endfor %}
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/assets/Hang_Qiu_CV.pdf">CV</a>
-<!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>-->
-<!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>-->
     </nav>
   </div>
 
