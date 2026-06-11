@@ -23,14 +23,6 @@ I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [U
 
 <hr>
 
-#### Hiring for Fall 2026:
-
-We are hiring from both **ECE** and **CSE** department, in the following areas.
-* Vehicular/Robotic Networks, Edge Computing
-* ML Systems, Systems for ML
-
-<hr>
-
 
 #### Recent News:
 {% assign all_news = site.data.news | concat: site.data.lab_news_auto | sort: "date" | reverse %}
