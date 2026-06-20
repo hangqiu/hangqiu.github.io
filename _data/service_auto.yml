@@ -231,6 +231,12 @@
   series: CVPR
   venue: IEEE/CVF Computer Vision and Pattern Recognition Conference
 - ENTRYTYPE: reviewer
+  ID: nips
+  conf: NeurIPS
+  keywords: nonumber, conf
+  series: NeurIPS
+  venue: Annual Conference on Neural Information Processing Systems
+- ENTRYTYPE: reviewer
   ID: iccv
   conf: ICCV
   keywords: nonumber, conf
