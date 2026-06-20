@@ -185,7 +185,23 @@
   venue: IEEE International Conference on Parallel and Distributed Systems
   year: '2022'
 - ENTRYTYPE: reviewer
-  ID: nsf25
+  ID: nsf26_cps
+  conf: NSF
+  keywords: nonumber, grant
+  note: Panelist
+  series: NSF
+  venue: National Science Foundation
+  year: '2026'
+- ENTRYTYPE: reviewer
+  ID: nsf26_nets
+  conf: NSF
+  keywords: nonumber, grant
+  note: Panelist
+  series: NSF
+  venue: National Science Foundation
+  year: '2026'
+- ENTRYTYPE: reviewer
+  ID: nsf25_tip
   conf: NSF
   keywords: nonumber, grant
   note: Panelist
