@@ -1,4 +1,11 @@
 - ENTRYTYPE: tpc
+  ID: tacps25_tpc
+  conf: TACPS
+  keywords: nonumber
+  series: TACPS
+  venue: International Workshop on Trustworthy Cyber-Physical Systems
+  year: '2025'
+- ENTRYTYPE: tpc
   ID: mobisys26_tpc
   conf: MobiSys
   keywords: nonumber
