@@ -1,4 +1,26 @@
 - ENTRYTYPE: tpc
+  ID: MobiCom27_tpc
+  conf: MobiCom
+  keywords: nonumber
+  series: MobiCom
+  venue: ACM International Conference on Mobile Computing and Networking
+  year: '2027'
+- ENTRYTYPE: tpc
+  ID: sensys27_tpc
+  conf: SenSys
+  keywords: nonumber
+  series: SenSys
+  venue: ACM Conference on Embedded Network Sensor Systems
+  year: '2027'
+- ENTRYTYPE: tpc
+  ID: icra27_ac
+  conf: ICRA
+  keywords: nonumber
+  note: Area Chair
+  series: ICRA
+  venue: IEEE International Conference on Robotics and Automation
+  year: '2027'
+- ENTRYTYPE: tpc
   ID: tacps25_tpc
   conf: TACPS
   keywords: nonumber
