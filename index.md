@@ -18,12 +18,13 @@ a postdoctoral scholar in the [Platform Lab](https://platformlab.stanford.edu/st
 worked in [Microsoft Research](https://www.microsoft.com/en-us/research/group/networking-research/), [IBM Research](https://research.ibm.com/labs/watson/), and collaborated with [General Motors](https://www.gm.com/) for over five years.
 I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [University of Southern California](https://www.usc.edu/), and my bachelor degree from the [IIoT](https://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
+I'm also a visiting professor in NVIDIA.
 
 **Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page. I may not be able to reply every email, but I do read all of them ;-)
 
 <hr>
 
-I'm also a visiting professor in NVIDIA.
+
 
 #### Recent News:
 {% assign all_news = site.data.news | concat: site.data.lab_news_auto | sort: "date" | reverse %}
