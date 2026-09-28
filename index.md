@@ -4,11 +4,11 @@ title: Home
 ---
  
 I am an Assistant Professor of [ECE](https://www.ece.ucr.edu/) and [CSE](https://www1.cs.ucr.edu/) at the [University of California, Riverside](https://cisl.ucr.edu/),
-where I lead the [Collaborative Intelligence Systems Lab](https://cisl.ucr.edu/) (CISL) which innovates in cooperative robots and networked autonomous systems.
+where I lead the [Collaborative Intelligence Systems Lab](https://cisl.ucr.edu/) (CISL). 
 I am also a faculty member of Center for Robotics and Intelligent Systems ([CRIS](https://www.cris.ucr.edu/)), 
 and a faculty member of Center for Environmental Research and Technology ([CE-CERT](https://www.cert.ucr.edu/)).
 
-My lab's mission is to infuse collaborative intelligence into today's autonomous systems, 
+CISL innovates in cooperative robots and networked autonomous systems. The lab's mission is to infuse collaborative intelligence into today's autonomous systems, 
 breaking the barriers between robot intelligence, edge/cloud intelligence, and human intelligence,
 empowering them to communicate and cooperate to achieve capabilities beyond individuals.
 In this interdisciplinary effort, our research focuses on networked systems problems at the intersection of machine learning systems, robotics, cyber-physical systems, edge computing, and networking.
@@ -18,10 +18,12 @@ a postdoctoral scholar in the [Platform Lab](https://platformlab.stanford.edu/st
 worked in [Microsoft Research](https://www.microsoft.com/en-us/research/group/networking-research/), [IBM Research](https://research.ibm.com/labs/watson/), and collaborated with [General Motors](https://www.gm.com/) for over five years.
 I received my Ph.D. from the [Networked Systems Lab](https://nsl.usc.edu/) at [University of Southern California](https://www.usc.edu/), and my bachelor degree from the [IIoT](https://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
+I'm also a visiting professor in NVIDIA.
 
 **Prospective Students**: please check out our lab's [Join Us](https://cisl.ucr.edu/joinus/) page. I may not be able to reply every email, but I do read all of them ;-)
 
 <hr>
+
 
 
 #### Recent News:
